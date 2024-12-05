@@ -1,0 +1,1 @@
+This repository demonstrates a common React bug: directly modifying a state variable instead of using the `setState` function.  The `bug.js` file contains the erroneous code, while `bugSolution.js` provides the corrected implementation. This mistake prevents React from rerendering the component and updating the UI.
